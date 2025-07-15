@@ -47,7 +47,7 @@ The script uses flexible regular expressions to find table-like rows. If the "br
 ## 🚀 Usage
 
 ### 1. Streamlit Web App
-Run locally or deploy to [Streamlit Cloud](https://streamlit.io/cloud):
+Run locally or access [Streamlit Cloud](https://resolve-pdf-to-csv-brokenarrangments.streamlit.app/):
 
 pip install -r requirements.txt
 streamlit run pdftocsvbrokenarrangement.py
